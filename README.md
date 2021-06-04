@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kaushtavmondal
-- 👀 I’m software test Engineer
+- 👋 Hi, this is @kaushtavmondal
+- 👀 I’m software-QA Automation
 - 💞️ I’m looking to collaborate with you for any testing activities,
 - 📫 please reachout to me @kaushtav.mondal@outlook.in
 
